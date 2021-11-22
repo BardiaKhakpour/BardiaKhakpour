@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BardiaKhakpour
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning HTML , CSS , JAVASCRIPT(40%)
+- 📫 How to reach me : instagram: @bardiahero email: khakpour@photographer.net & khakpourbardia@gmail.com
