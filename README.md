@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-    <a href="https://instagram.com/bardiahero"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=e92e2e" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.gg/SrPsF7Fdpf"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=e92e2e" style="border-radius:15px" alt="Discord"></a>
+    <a href="https://instagram.com/bardiahero"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=5459a7" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://discord.gg/SrPsF7Fdpf"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=5459a7" style="border-radius:15pxe" style="border-radius:15px" alt="Discord"></a>
 </p>
 
 <br><br>
@@ -26,9 +26,9 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=e92e2e" alt="JavaScript" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=e92e2e" alt="HTML5" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=e92e2e" alt="CSS3" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=5459a7" alt="JavaScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=5459a7" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=5459a7" alt="CSS3" style="border-radius:15px"/>
 </div>
 
 <br><br>
