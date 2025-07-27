@@ -1,0 +1,9 @@
+#svc-visit-form {
+    background: #f9f9f9;
+    padding: 15px;
+    border: 1px solid #ddd;
+    max-width: 400px;
+}
+#svc-visit-form p {
+    margin-bottom: 10px;
+}
